@@ -1,0 +1,11 @@
+/**
+ * @name Comic Sans Font
+ * @author Vivian
+ * @version 1.0
+ * @description Replaces the Discord fonts with Comic Sans
+*/
+
+::placeholder, body, button, input, select, textarea
+{
+	font-family: "Comic Sans MS", "Comic Sans", cursive;
+}

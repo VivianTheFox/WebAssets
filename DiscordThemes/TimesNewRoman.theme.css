@@ -1,0 +1,11 @@
+/**
+ * @name Times New Roman Font
+ * @author Vivian
+ * @version 1.0
+ * @description Replaces the Discord fonts with Times New Roman
+*/
+
+::placeholder, body, button, input, select, textarea
+{
+	font-family: "Times New Roman", Times, serif;
+}
